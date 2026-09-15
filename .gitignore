@@ -1,4 +1,6 @@
-node_modules/
-function.zip
-response*.json
+backend/node_modules/
+backend/function.zip
+backend/response*.json
+frontend/node_modules/
+frontend/dist/
 .env
